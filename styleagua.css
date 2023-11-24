@@ -1,0 +1,28 @@
+  @charset="UTF-8"
+  
+  body{
+    backdrop-filter: black;}
+  
+  body{
+    background-color:lightcoral;
+  }
+  header{
+    background-image:linear-gradient(to right,#616161,black);
+      
+    }
+    *{
+    margin: 0px;
+    }
+    h1{
+      color: white;
+      text-align:center;
+      font-size:50px;
+    }
+ h2{
+   font-size:30px;
+   color:white;
+ }
+ img{
+   width:500px;
+   height:500px;
+ }

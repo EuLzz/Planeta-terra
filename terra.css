@@ -1,0 +1,44 @@
+@charset="UTF-8"
+
+body{
+  background-color: blue;
+}
+header{
+  background-color:lightgreen;
+}
+*{
+  margin: 0px;
+}
+h1{
+  text-align: center;
+  font-family:Times New Roman;
+  font-size:50px;
+
+}h2{
+  font-size:40px;
+  font-family: Times New Roman;
+  
+}
+body{
+  background-image: linear-gradient(to right,lightgreen,green);
+}
+p{
+  30px
+}
+h3{
+  font-size: 30px;
+}
+img{
+  width:500px;
+  height:500px;
+  align-content: center;
+}
+p{
+  font-size:20px;
+  font-family:Times New Roman;
+} li{
+  font-size:30px;
+}
+img,p{
+  display:inline-block;
+}

@@ -1,0 +1,32 @@
+@charset="UTF-8"
+
+body{
+  background-color:blue;
+} iframe{
+  width: 500px;
+  height: 500px;
+
+} body{
+  background-color: white;
+} h1{
+  color:black;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+} body{
+  background-color: white;
+} h2{
+  font-size: 40px;
+text-align:to right;
+color:white;
+} p{
+  font-size: 30px;
+  color:white;
+} header{
+  background-image:linear-gradient(to right, black,#4f4f4f);
+} 
+*{
+  margin:0px;
+}button{
+  background-color:white;}
+  
